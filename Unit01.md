@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC331: Congressional Politics"
+course_description: "An examination of the role of the U.S. Congress within the American political system, with particular emphasis on the constitutional foundations of the legislative branch, the dynamics of representation, redistricting, and the role of money."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: History and Structure of Congress** <span id="1"></span> 
 *This unit will provide you with a basic understanding of the history
 and structure of the United States Congress.  You will begin with an

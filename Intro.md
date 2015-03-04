@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC331: Congressional Politics"
+course_description: "An examination of the role of the U.S. Congress within the American political system, with particular emphasis on the constitutional foundations of the legislative branch, the dynamics of representation, redistricting, and the role of money."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC331: Congressional Politics"
 ------------------------------------------------------
 

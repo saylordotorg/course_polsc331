@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC331: Congressional Politics"
+course_description: "An examination of the role of the U.S. Congress within the American political system, with particular emphasis on the constitutional foundations of the legislative branch, the dynamics of representation, redistricting, and the role of money."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Becoming a Member of Congress** <span id="2"></span> 
 *In this unit, you will explore the process of becoming a member of
 Congress and the responsibilities of members once they are elected.  The
