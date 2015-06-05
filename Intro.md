@@ -157,3 +157,11 @@ learning experience, please read all the materials and watch the videos
 in their entirety.  Take notes as you work through each resource.  These
 notes will serve as a useful review as you study for your Final Exam.  
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/polsc331/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc331/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc331/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc331/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc331/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc331/Unit06/)
