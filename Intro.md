@@ -175,3 +175,4 @@ notes will serve as a useful review as you study for your Final Exam.
 - [Unit 4](https://legacy.saylor.org/polsc331/Unit04/)
 - [Unit 5](https://legacy.saylor.org/polsc331/Unit05/)
 - [Unit 6](https://legacy.saylor.org/polsc331/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC331/POLSC331-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC331/POLSC331-FinalExam-Answers.html)
