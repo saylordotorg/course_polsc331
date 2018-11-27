@@ -562,7 +562,7 @@ id="4.3.3"></span> 
     Cartoons"**
 
     Link: The Saylor Foundation's "[Analyzing Political
-    Cartoons](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC331-Assessment3-FINAL.pdf)"
+    Cartoons](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment3-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assessment in order to
@@ -573,7 +573,7 @@ id="4.3.3"></span> 
         
      When you are done, please check your work against The Saylor
     Foundation's "[Guide to Responding: Analyzing Political
-    Cartoons](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC331-Assessment3-AnswerKey-FINAL.pdf)"
+    Cartoons](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment3-AnswerKey-FINAL.pdf)"
     (PDF)
 
 
