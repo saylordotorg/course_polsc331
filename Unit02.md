@@ -344,7 +344,7 @@ Gerrymandering** <span id="2.2.3"></span> 
 **2.3.3 Life as a Member of Congress** <span id="2.3.3"></span> 
 -   **Assessment: The Saylor Foundation's "Congress: A Member Profile"**
     Link: The Saylor Foundation's "[Congress: A Member
-    Profile](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC331-Assessment-2-FINAL.pdf)"
+    Profile](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment-2-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assessment in order to
@@ -358,7 +358,7 @@ Gerrymandering** <span id="2.2.3"></span> 
       
      When you are done, please check your work against The Saylor
     Foundation's "[Guide to Responding to the Congress: A Member Profile
-    Assessment.](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC331-Assessment-2-GTR-FINAL.pdf)"
+    Assessment.](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment-2-GTR-FINAL.pdf)"
 
 -   **Web Media: CNN’s “Freshman Year”**
     Link: CNN’s [“Freshman
