@@ -239,7 +239,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation's "The House and Senate"**
 
     Link: The Saylor Foundation's "[The House and
-    Senate](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment4-FINAL.pdf)"
+    Senate](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC331-Assessment4-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assessment in order to
@@ -250,7 +250,7 @@ Upon successful completion of this unit, the student will be able to:
         
      When you are done, please check your work against The Saylor
     Foundation's "[Answer Key: The House and
-    Senate](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment-4-GTR-FINAL.pdf)"
+    Senate](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC331-Assessment-4-GTR-FINAL.pdf)"
     (PDF).
 
 **3.3.2 “Log Rolling” and “Pork Barreling”** <span id="3.3.2"></span> 

@@ -144,7 +144,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation's "Constitutional Convention
     Plans"**
     Link: The Saylor Foundation's "[Constitutional Convention
-    Plans](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment-1-FINAL.pdf)"
+    Plans](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC331-Assessment-1-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assessment in order to
@@ -154,7 +154,7 @@ Upon successful completion of this unit, the student will be able to:
         
      When you are done, please check your work against The Saylor
     Foundation's "[Answer Key: Constitutional Convention Plans
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC331-Assessment1AnswerKey-FINAL.pdf)."
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC331-Assessment1AnswerKey-FINAL.pdf)."
     (PDF)  
       
      This assessment should take approximately 1 hour to complete.
